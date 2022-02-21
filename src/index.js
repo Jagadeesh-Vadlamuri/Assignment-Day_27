@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import ToDoApp from './ToDoList';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
